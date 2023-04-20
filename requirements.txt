@@ -1,3 +1,4 @@
 nltk==3.7
 streamlit==1.16.0
+sklearn
 
